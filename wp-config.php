@@ -25,10 +25,10 @@ define('DB_NAME', 'wp_ecommerce');
 define('FS_METHOD', 'direct');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'Your_username');
 
 /** MySQL database password */
-define('DB_PASSWORD', '2017');
+define('DB_PASSWORD', 'Your_password');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
